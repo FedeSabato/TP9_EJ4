@@ -20,7 +20,6 @@
 int main(int argc, char** argv) {
     
     printf("Hola");
-
     return (EXIT_SUCCESS);
 }
 
